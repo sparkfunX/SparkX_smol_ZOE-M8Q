@@ -4336,8 +4336,6 @@ design rules under a new name.</description>
 <signal name="SCLK">
 <contactref element="IN" pad="4"/>
 <contactref element="OUT" pad="4"/>
-<wire x1="7.584" y1="39.8945" x2="7.6157" y2="39.8628" width="0.3048" layer="16"/>
-<wire x1="7.6157" y1="39.8628" x2="7.6157" y2="39.1795" width="0.3048" layer="16"/>
 <via x="7.6157" y="39.1795" extent="1-16" drill="0.2"/>
 <via x="7.62" y="1.4605" extent="1-16" drill="0.2"/>
 <wire x1="7.62" y1="1.4605" x2="7.584" y2="1.4245" width="0.3048" layer="1"/>
@@ -4347,6 +4345,8 @@ design rules under a new name.</description>
 <wire x1="10.414" y1="5.08951875" x2="7.62" y2="2.29551875" width="0.1524" layer="15"/>
 <wire x1="7.6157" y1="38.43878125" x2="7.6157" y2="39.1795" width="0.1524" layer="15"/>
 <wire x1="10.414" y1="35.64048125" x2="7.6157" y2="38.43878125" width="0.1524" layer="15"/>
+<wire x1="7.6157" y1="39.1795" x2="7.584" y2="39.2112" width="0.3048" layer="16"/>
+<wire x1="7.584" y1="39.2112" x2="7.584" y2="39.8945" width="0.3048" layer="16"/>
 </signal>
 <signal name="COPI">
 <contactref element="IN" pad="5"/>
@@ -4542,8 +4542,6 @@ design rules under a new name.</description>
 <wire x1="9.7282" y1="35.4446375" x2="9.7282" y2="3.2676125" width="0.3048" layer="16"/>
 <wire x1="9.7282" y1="3.2676125" x2="9.3260875" y2="2.8655" width="0.3048" layer="16"/>
 <contactref element="R1" pad="2"/>
-<wire x1="2.084" y1="39.8945" x2="2.0955" y2="39.883" width="0.3048" layer="16"/>
-<wire x1="2.0955" y1="39.883" x2="2.0955" y2="39.1795" width="0.3048" layer="16"/>
 <via x="2.0955" y="39.1795" extent="1-16" drill="0.2"/>
 <wire x1="2.0955" y1="39.1795" x2="2.0955" y2="38.9255" width="0.3048" layer="1"/>
 <via x="2.0955" y="38.735" extent="1-16" drill="0.2"/>
@@ -4596,6 +4594,8 @@ design rules under a new name.</description>
 <wire x1="6.484" y1="19.8755" x2="6.9793" y2="20.3708" width="0.4064" layer="1"/>
 <wire x1="9.53168125" y1="20.3708" x2="10.244" y2="21.08311875" width="0.4064" layer="1"/>
 <wire x1="10.244" y1="21.08311875" x2="10.244" y2="33.108" width="0.4064" layer="1"/>
+<wire x1="2.0955" y1="39.1795" x2="2.084" y2="39.191" width="0.3048" layer="16"/>
+<wire x1="2.084" y1="39.191" x2="2.084" y2="39.8945" width="0.3048" layer="16"/>
 </signal>
 <signal name="V_USB">
 <contactref element="IN" pad="16"/>
