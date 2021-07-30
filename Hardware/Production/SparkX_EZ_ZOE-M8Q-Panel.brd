@@ -1488,95 +1488,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </package>
 </packages>
 </library>
-<library name="New_Parts_Connectors">
-<packages>
-<package name="FPC_16_DOUBLESIDED_BACKFLIP">
-<wire x1="5" y1="1.2" x2="5" y2="-0.75" width="0.01" layer="51"/>
-<wire x1="4.41" y1="-1.75" x2="-4.41" y2="-1.75" width="0.01" layer="51"/>
-<wire x1="-5" y1="1.2" x2="-4.62" y2="1.2" width="0.01" layer="51"/>
-<smd name="1" x="-3.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<smd name="2" x="-3.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<rectangle x1="-3.825" y1="1.1" x2="-3.675" y2="1.5" layer="51"/>
-<smd name="MP1" x="-4.75" y="-1.15" dx="0.4" dy="0.8" layer="1"/>
-<rectangle x1="-3.325" y1="1.1" x2="-3.175" y2="1.5" layer="51"/>
-<rectangle x1="-3.875" y1="1.025" x2="-3.625" y2="1.675" layer="31"/>
-<rectangle x1="-3.375" y1="1.025" x2="-3.125" y2="1.675" layer="31"/>
-<wire x1="-4.62" y1="1.2" x2="4.62" y2="1.2" width="0.01" layer="51"/>
-<wire x1="4.62" y1="1.2" x2="5" y2="1.2" width="0.01" layer="51"/>
-<smd name="MP2" x="4.75" y="-1.15" dx="0.4" dy="0.8" layer="1"/>
-<rectangle x1="-4.775" y1="-1.395" x2="-4.625" y2="-0.905" layer="51"/>
-<rectangle x1="4.625" y1="-1.395" x2="4.775" y2="-0.905" layer="51"/>
-<wire x1="-5" y1="1.2" x2="-5" y2="-0.75" width="0.01" layer="51"/>
-<wire x1="-4.77" y1="2.05" x2="4.77" y2="2.05" width="0.01" layer="51"/>
-<wire x1="-4.62" y1="0.2" x2="4.62" y2="0.2" width="0.01" layer="51"/>
-<wire x1="-4.62" y1="-1.55" x2="-4.62" y2="-0.75" width="0.01" layer="51"/>
-<wire x1="-4.62" y1="-0.75" x2="-5" y2="-0.75" width="0.01" layer="51"/>
-<wire x1="4.62" y1="-1.55" x2="4.62" y2="-0.75" width="0.01" layer="51"/>
-<wire x1="5" y1="-0.75" x2="4.62" y2="-0.75" width="0.01" layer="51"/>
-<wire x1="-4.62" y1="-1.55" x2="-4.41" y2="-1.75" width="0.01" layer="51" curve="88.036076"/>
-<wire x1="4.62" y1="-1.55" x2="4.41" y2="-1.75" width="0.01" layer="51" curve="-88.036076"/>
-<wire x1="4.62" y1="0.2" x2="4.62" y2="1.2" width="0.01" layer="51"/>
-<wire x1="-4.62" y1="0.2" x2="-4.62" y2="1.2" width="0.01" layer="51"/>
-<wire x1="4.77" y1="1.31" x2="4.77" y2="2.05" width="0.01" layer="51"/>
-<wire x1="-4.77" y1="2.05" x2="-4.77" y2="1.31" width="0.01" layer="51"/>
-<wire x1="-4.62" y1="1.2" x2="-4.62" y2="1.31" width="0.01" layer="51"/>
-<wire x1="-4.62" y1="1.31" x2="-4.77" y2="1.31" width="0.01" layer="51"/>
-<wire x1="4.62" y1="1.31" x2="4.77" y2="1.31" width="0.01" layer="51"/>
-<wire x1="4.62" y1="1.2" x2="4.62" y2="1.31" width="0.01" layer="51"/>
-<wire x1="-5" y1="1.15" x2="-4.1" y2="1.15" width="0.1524" layer="21"/>
-<wire x1="-5" y1="1.15" x2="-5" y2="-0.45" width="0.1524" layer="21"/>
-<wire x1="-4.4" y1="-1.75" x2="4.4" y2="-1.75" width="0.1524" layer="21"/>
-<wire x1="5" y1="1.15" x2="5" y2="-0.45" width="0.1524" layer="21"/>
-<wire x1="5" y1="1.15" x2="4.1" y2="1.15" width="0.1524" layer="21"/>
-<text x="0" y="-3.25" size="0.2" layer="51" align="center">Ribbon Insert</text>
-<wire x1="0" y1="-2.95" x2="0" y2="-2.25" width="0.05" layer="51"/>
-<wire x1="0" y1="-2.25" x2="0.2" y2="-2.45" width="0.05" layer="51"/>
-<wire x1="0" y1="-2.25" x2="-0.2" y2="-2.45" width="0.05" layer="51"/>
-<smd name="3" x="-2.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<smd name="4" x="-2.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<rectangle x1="-2.825" y1="1.1" x2="-2.675" y2="1.5" layer="51"/>
-<rectangle x1="-2.325" y1="1.1" x2="-2.175" y2="1.5" layer="51"/>
-<rectangle x1="-2.875" y1="1.025" x2="-2.625" y2="1.675" layer="31"/>
-<rectangle x1="-2.375" y1="1.025" x2="-2.125" y2="1.675" layer="31"/>
-<smd name="5" x="-1.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<smd name="6" x="-1.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<rectangle x1="-1.825" y1="1.1" x2="-1.675" y2="1.5" layer="51"/>
-<rectangle x1="-1.325" y1="1.1" x2="-1.175" y2="1.5" layer="51"/>
-<rectangle x1="-1.875" y1="1.025" x2="-1.625" y2="1.675" layer="31"/>
-<rectangle x1="-1.375" y1="1.025" x2="-1.125" y2="1.675" layer="31"/>
-<smd name="7" x="-0.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<smd name="8" x="-0.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<rectangle x1="-0.825" y1="1.1" x2="-0.675" y2="1.5" layer="51"/>
-<rectangle x1="-0.325" y1="1.1" x2="-0.175" y2="1.5" layer="51"/>
-<rectangle x1="-0.875" y1="1.025" x2="-0.625" y2="1.675" layer="31"/>
-<rectangle x1="-0.375" y1="1.025" x2="-0.125" y2="1.675" layer="31"/>
-<smd name="9" x="0.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<smd name="10" x="0.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<rectangle x1="0.175" y1="1.1" x2="0.325" y2="1.5" layer="51"/>
-<rectangle x1="0.675" y1="1.1" x2="0.825" y2="1.5" layer="51"/>
-<rectangle x1="0.125" y1="1.025" x2="0.375" y2="1.675" layer="31"/>
-<rectangle x1="0.625" y1="1.025" x2="0.875" y2="1.675" layer="31"/>
-<smd name="11" x="1.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<smd name="12" x="1.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<rectangle x1="1.175" y1="1.1" x2="1.325" y2="1.5" layer="51"/>
-<rectangle x1="1.675" y1="1.1" x2="1.825" y2="1.5" layer="51"/>
-<rectangle x1="1.125" y1="1.025" x2="1.375" y2="1.675" layer="31"/>
-<rectangle x1="1.625" y1="1.025" x2="1.875" y2="1.675" layer="31"/>
-<smd name="13" x="2.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<smd name="14" x="2.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<rectangle x1="2.175" y1="1.1" x2="2.325" y2="1.5" layer="51"/>
-<rectangle x1="2.675" y1="1.1" x2="2.825" y2="1.5" layer="51"/>
-<rectangle x1="2.125" y1="1.025" x2="2.375" y2="1.675" layer="31"/>
-<rectangle x1="2.625" y1="1.025" x2="2.875" y2="1.675" layer="31"/>
-<smd name="15" x="3.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<smd name="16" x="3.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
-<rectangle x1="3.175" y1="1.1" x2="3.325" y2="1.5" layer="51"/>
-<rectangle x1="3.675" y1="1.1" x2="3.825" y2="1.5" layer="51"/>
-<rectangle x1="3.125" y1="1.025" x2="3.375" y2="1.675" layer="31"/>
-<rectangle x1="3.625" y1="1.025" x2="3.875" y2="1.675" layer="31"/>
-</package>
-</packages>
-</library>
 <library name="SparkX">
 <packages>
 <package name="SPARKX-SMALL">
@@ -1886,6 +1797,91 @@ Used as a test point connection for pogo pins or other debugging tools.
 <wire x1="-1.524" y1="1.016" x2="-1.524" y2="1.778" width="0.1524" layer="21"/>
 <wire x1="-1.524" y1="1.778" x2="-1.016" y2="2.286" width="0.1524" layer="21"/>
 <wire x1="-1.016" y1="2.286" x2="-0.254" y2="2.286" width="0.1524" layer="21"/>
+</package>
+<package name="FPC_16_0.5MM">
+<wire x1="5" y1="1.2" x2="5" y2="-0.75" width="0.01" layer="51"/>
+<wire x1="4.41" y1="-1.75" x2="-4.41" y2="-1.75" width="0.01" layer="51"/>
+<wire x1="-5" y1="1.2" x2="-4.62" y2="1.2" width="0.01" layer="51"/>
+<smd name="1" x="-3.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<smd name="2" x="-3.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<rectangle x1="-3.825" y1="1.1" x2="-3.675" y2="1.5" layer="51"/>
+<smd name="MP1" x="-4.75" y="-1.15" dx="0.4" dy="0.8" layer="1"/>
+<rectangle x1="-3.325" y1="1.1" x2="-3.175" y2="1.5" layer="51"/>
+<rectangle x1="-3.875" y1="1.025" x2="-3.625" y2="1.675" layer="31"/>
+<rectangle x1="-3.375" y1="1.025" x2="-3.125" y2="1.675" layer="31"/>
+<wire x1="-4.62" y1="1.2" x2="4.62" y2="1.2" width="0.01" layer="51"/>
+<wire x1="4.62" y1="1.2" x2="5" y2="1.2" width="0.01" layer="51"/>
+<smd name="MP2" x="4.75" y="-1.15" dx="0.4" dy="0.8" layer="1"/>
+<rectangle x1="-4.775" y1="-1.395" x2="-4.625" y2="-0.905" layer="51"/>
+<rectangle x1="4.625" y1="-1.395" x2="4.775" y2="-0.905" layer="51"/>
+<wire x1="-5" y1="1.2" x2="-5" y2="-0.75" width="0.01" layer="51"/>
+<wire x1="-4.77" y1="2.05" x2="4.77" y2="2.05" width="0.01" layer="51"/>
+<wire x1="-4.62" y1="0.2" x2="4.62" y2="0.2" width="0.01" layer="51"/>
+<wire x1="-4.62" y1="-1.55" x2="-4.62" y2="-0.75" width="0.01" layer="51"/>
+<wire x1="-4.62" y1="-0.75" x2="-5" y2="-0.75" width="0.01" layer="51"/>
+<wire x1="4.62" y1="-1.55" x2="4.62" y2="-0.75" width="0.01" layer="51"/>
+<wire x1="5" y1="-0.75" x2="4.62" y2="-0.75" width="0.01" layer="51"/>
+<wire x1="-4.62" y1="-1.55" x2="-4.41" y2="-1.75" width="0.01" layer="51" curve="88.036076"/>
+<wire x1="4.62" y1="-1.55" x2="4.41" y2="-1.75" width="0.01" layer="51" curve="-88.036076"/>
+<wire x1="4.62" y1="0.2" x2="4.62" y2="1.2" width="0.01" layer="51"/>
+<wire x1="-4.62" y1="0.2" x2="-4.62" y2="1.2" width="0.01" layer="51"/>
+<wire x1="4.77" y1="1.31" x2="4.77" y2="2.05" width="0.01" layer="51"/>
+<wire x1="-4.77" y1="2.05" x2="-4.77" y2="1.31" width="0.01" layer="51"/>
+<wire x1="-4.62" y1="1.2" x2="-4.62" y2="1.31" width="0.01" layer="51"/>
+<wire x1="-4.62" y1="1.31" x2="-4.77" y2="1.31" width="0.01" layer="51"/>
+<wire x1="4.62" y1="1.31" x2="4.77" y2="1.31" width="0.01" layer="51"/>
+<wire x1="4.62" y1="1.2" x2="4.62" y2="1.31" width="0.01" layer="51"/>
+<wire x1="-5" y1="1.15" x2="-4.1" y2="1.15" width="0.1524" layer="21"/>
+<wire x1="-5" y1="1.15" x2="-5" y2="-0.45" width="0.1524" layer="21"/>
+<wire x1="-4.4" y1="-1.75" x2="4.4" y2="-1.75" width="0.1524" layer="21"/>
+<wire x1="5" y1="1.15" x2="5" y2="-0.45" width="0.1524" layer="21"/>
+<wire x1="5" y1="1.15" x2="4.1" y2="1.15" width="0.1524" layer="21"/>
+<text x="0" y="-3.25" size="0.2" layer="51" align="center">Ribbon Insert</text>
+<wire x1="0" y1="-2.95" x2="0" y2="-2.25" width="0.05" layer="51"/>
+<wire x1="0" y1="-2.25" x2="0.2" y2="-2.45" width="0.05" layer="51"/>
+<wire x1="0" y1="-2.25" x2="-0.2" y2="-2.45" width="0.05" layer="51"/>
+<smd name="3" x="-2.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<smd name="4" x="-2.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<rectangle x1="-2.825" y1="1.1" x2="-2.675" y2="1.5" layer="51"/>
+<rectangle x1="-2.325" y1="1.1" x2="-2.175" y2="1.5" layer="51"/>
+<rectangle x1="-2.875" y1="1.025" x2="-2.625" y2="1.675" layer="31"/>
+<rectangle x1="-2.375" y1="1.025" x2="-2.125" y2="1.675" layer="31"/>
+<smd name="5" x="-1.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<smd name="6" x="-1.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<rectangle x1="-1.825" y1="1.1" x2="-1.675" y2="1.5" layer="51"/>
+<rectangle x1="-1.325" y1="1.1" x2="-1.175" y2="1.5" layer="51"/>
+<rectangle x1="-1.875" y1="1.025" x2="-1.625" y2="1.675" layer="31"/>
+<rectangle x1="-1.375" y1="1.025" x2="-1.125" y2="1.675" layer="31"/>
+<smd name="7" x="-0.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<smd name="8" x="-0.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<rectangle x1="-0.825" y1="1.1" x2="-0.675" y2="1.5" layer="51"/>
+<rectangle x1="-0.325" y1="1.1" x2="-0.175" y2="1.5" layer="51"/>
+<rectangle x1="-0.875" y1="1.025" x2="-0.625" y2="1.675" layer="31"/>
+<rectangle x1="-0.375" y1="1.025" x2="-0.125" y2="1.675" layer="31"/>
+<smd name="9" x="0.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<smd name="10" x="0.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<rectangle x1="0.175" y1="1.1" x2="0.325" y2="1.5" layer="51"/>
+<rectangle x1="0.675" y1="1.1" x2="0.825" y2="1.5" layer="51"/>
+<rectangle x1="0.125" y1="1.025" x2="0.375" y2="1.675" layer="31"/>
+<rectangle x1="0.625" y1="1.025" x2="0.875" y2="1.675" layer="31"/>
+<smd name="11" x="1.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<smd name="12" x="1.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<rectangle x1="1.175" y1="1.1" x2="1.325" y2="1.5" layer="51"/>
+<rectangle x1="1.675" y1="1.1" x2="1.825" y2="1.5" layer="51"/>
+<rectangle x1="1.125" y1="1.025" x2="1.375" y2="1.675" layer="31"/>
+<rectangle x1="1.625" y1="1.025" x2="1.875" y2="1.675" layer="31"/>
+<smd name="13" x="2.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<smd name="14" x="2.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<rectangle x1="2.175" y1="1.1" x2="2.325" y2="1.5" layer="51"/>
+<rectangle x1="2.675" y1="1.1" x2="2.825" y2="1.5" layer="51"/>
+<rectangle x1="2.125" y1="1.025" x2="2.375" y2="1.675" layer="31"/>
+<rectangle x1="2.625" y1="1.025" x2="2.875" y2="1.675" layer="31"/>
+<smd name="15" x="3.25" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<smd name="16" x="3.75" y="1.35" dx="0.3" dy="0.8" layer="1" cream="no"/>
+<rectangle x1="3.175" y1="1.1" x2="3.325" y2="1.5" layer="51"/>
+<rectangle x1="3.675" y1="1.1" x2="3.825" y2="1.5" layer="51"/>
+<rectangle x1="3.125" y1="1.025" x2="3.375" y2="1.675" layer="31"/>
+<rectangle x1="3.625" y1="1.025" x2="3.875" y2="1.675" layer="31"/>
 </package>
 </packages>
 </library>
@@ -4903,13 +4899,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="8.001" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="7.9375" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="5.334" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="5.334" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="5.334" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="5.334" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="5.334" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="5.334" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="5.334" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="5.334" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="5.334" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="5.334" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="7.62" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="5.08" y="17.78" smashed="yes" rot="MR0"/>
@@ -4950,7 +4944,7 @@ design rules under a new name.</description>
 </element>
 <element name="R2" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="2.9845" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="2.6575" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="15.6845" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="15.6845" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C9" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="2.9845" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="3.3115" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -5032,13 +5026,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="19.177" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="19.1135" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN1" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="16.51" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="16.51" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="16.51" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN1" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="16.51" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="16.51" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT1" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="16.51" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="16.51" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="16.51" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT1" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="16.51" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="16.51" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD1" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="18.796" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP1" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="16.256" y="17.78" smashed="yes" rot="MR0"/>
@@ -5079,7 +5071,7 @@ design rules under a new name.</description>
 </element>
 <element name="R5" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="14.1605" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="13.8335" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="26.8605" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="26.8605" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C18" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="14.1605" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="14.4875" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -5161,13 +5153,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="30.353" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="30.2895" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN2" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="27.686" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="27.686" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="27.686" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN2" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="27.686" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="27.686" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT2" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="27.686" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="27.686" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="27.686" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT2" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="27.686" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="27.686" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD2" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="29.972" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP2" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="27.432" y="17.78" smashed="yes" rot="MR0"/>
@@ -5208,7 +5198,7 @@ design rules under a new name.</description>
 </element>
 <element name="R8" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="25.3365" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="25.0095" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="38.0365" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="38.0365" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C28" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="25.3365" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="25.6635" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -5290,13 +5280,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="41.529" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="41.4655" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN3" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="38.862" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="38.862" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="38.862" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN3" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="38.862" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="38.862" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT3" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="38.862" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="38.862" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="38.862" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT3" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="38.862" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="38.862" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD3" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="41.148" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP3" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="38.608" y="17.78" smashed="yes" rot="MR0"/>
@@ -5337,7 +5325,7 @@ design rules under a new name.</description>
 </element>
 <element name="R11" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="36.5125" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="36.1855" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="49.2125" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="49.2125" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C38" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="36.5125" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="36.8395" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -5419,13 +5407,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="52.705" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="52.6415" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN4" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="50.038" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="50.038" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="50.038" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN4" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="50.038" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="50.038" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT4" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="50.038" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="50.038" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="50.038" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT4" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="50.038" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="50.038" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD4" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="52.324" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP4" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="49.784" y="17.78" smashed="yes" rot="MR0"/>
@@ -5466,7 +5452,7 @@ design rules under a new name.</description>
 </element>
 <element name="R14" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="47.6885" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="47.3615" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="60.3885" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="60.3885" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C48" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="47.6885" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="48.0155" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -5548,13 +5534,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="63.881" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="63.8175" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN5" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="61.214" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="61.214" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="61.214" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN5" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="61.214" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="61.214" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT5" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="61.214" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="61.214" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="61.214" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT5" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="61.214" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="61.214" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD5" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="63.5" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP5" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="60.96" y="17.78" smashed="yes" rot="MR0"/>
@@ -5595,7 +5579,7 @@ design rules under a new name.</description>
 </element>
 <element name="R17" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="58.8645" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="58.5375" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="71.5645" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="71.5645" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C58" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="58.8645" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="59.1915" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -5677,13 +5661,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="75.057" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="74.9935" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN6" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="72.39" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="72.39" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="72.39" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN6" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="72.39" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="72.39" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT6" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="72.39" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="72.39" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="72.39" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT6" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="72.39" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="72.39" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD6" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="74.676" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP6" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="72.136" y="17.78" smashed="yes" rot="MR0"/>
@@ -5724,7 +5706,7 @@ design rules under a new name.</description>
 </element>
 <element name="R20" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="70.0405" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="69.7135" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="82.7405" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="82.7405" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C68" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="70.0405" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="70.3675" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -5806,13 +5788,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="86.233" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="86.1695" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN7" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="83.566" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="83.566" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="83.566" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN7" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="83.566" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="83.566" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT7" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="83.566" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="83.566" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="83.566" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT7" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="83.566" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="83.566" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD7" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="85.852" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP7" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="83.312" y="17.78" smashed="yes" rot="MR0"/>
@@ -5853,7 +5833,7 @@ design rules under a new name.</description>
 </element>
 <element name="R23" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="81.2165" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="80.8895" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="93.9165" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="93.9165" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C78" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="81.2165" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="81.5435" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -5935,13 +5915,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="97.409" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="97.3455" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN8" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="94.742" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="94.742" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="94.742" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN8" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="94.742" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="94.742" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT8" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="94.742" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="94.742" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="94.742" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT8" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="94.742" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="94.742" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD8" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="97.028" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP8" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="94.488" y="17.78" smashed="yes" rot="MR0"/>
@@ -5982,7 +5960,7 @@ design rules under a new name.</description>
 </element>
 <element name="R26" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="92.3925" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="92.0655" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="105.0925" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="105.0925" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C88" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="92.3925" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="92.7195" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -6064,13 +6042,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="108.585" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="108.5215" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN9" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="105.918" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="105.918" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="105.918" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN9" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="105.918" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="105.918" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT9" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="105.918" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="105.918" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="105.918" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT9" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="105.918" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="105.918" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD9" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="108.204" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP9" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="105.664" y="17.78" smashed="yes" rot="MR0"/>
@@ -6111,7 +6087,7 @@ design rules under a new name.</description>
 </element>
 <element name="R29" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="103.5685" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="103.2415" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="116.2685" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="116.2685" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C98" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="103.5685" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="103.8955" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -6193,13 +6169,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="119.761" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="119.6975" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN10" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="117.094" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="117.094" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="117.094" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN10" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="117.094" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="117.094" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT10" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="117.094" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="117.094" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="117.094" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT10" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="117.094" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="117.094" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD10" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="119.38" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP10" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="116.84" y="17.78" smashed="yes" rot="MR0"/>
@@ -6240,7 +6214,7 @@ design rules under a new name.</description>
 </element>
 <element name="R32" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="114.7445" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="114.4175" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="127.4445" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="127.4445" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C108" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="114.7445" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="115.0715" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -6322,13 +6296,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="130.937" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="130.8735" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN11" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="128.27" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="128.27" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="128.27" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN11" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="128.27" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="128.27" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT11" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="128.27" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="128.27" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="128.27" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT11" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="128.27" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="128.27" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD11" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="130.556" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP11" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="128.016" y="17.78" smashed="yes" rot="MR0"/>
@@ -6369,7 +6341,7 @@ design rules under a new name.</description>
 </element>
 <element name="R35" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="125.9205" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="125.5935" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="138.6205" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="138.6205" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C118" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="125.9205" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="126.2475" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -6451,13 +6423,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="142.113" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="142.0495" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN12" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="139.446" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="139.446" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="139.446" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN12" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="139.446" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="139.446" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT12" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="139.446" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="139.446" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="139.446" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT12" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="139.446" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="139.446" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD12" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="141.732" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP12" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="139.192" y="17.78" smashed="yes" rot="MR0"/>
@@ -6498,7 +6468,7 @@ design rules under a new name.</description>
 </element>
 <element name="R38" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="137.0965" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="136.7695" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="149.7965" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="149.7965" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C128" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="137.0965" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="137.4235" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -6580,13 +6550,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="153.289" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="153.2255" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN13" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="150.622" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="150.622" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="150.622" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN13" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="150.622" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="150.622" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT13" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="150.622" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="150.622" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="150.622" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT13" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="150.622" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="150.622" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD13" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="152.908" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP13" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="150.368" y="17.78" smashed="yes" rot="MR0"/>
@@ -6627,7 +6595,7 @@ design rules under a new name.</description>
 </element>
 <element name="R41" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="148.2725" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="147.9455" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="160.9725" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="160.9725" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C138" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="148.2725" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="148.5995" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -6709,13 +6677,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="164.465" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="164.4015" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN14" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="161.798" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="161.798" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="161.798" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN14" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="161.798" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="161.798" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT14" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="161.798" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="161.798" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="161.798" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT14" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="161.798" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="161.798" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD14" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="164.084" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP14" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="161.544" y="17.78" smashed="yes" rot="MR0"/>
@@ -6756,7 +6722,7 @@ design rules under a new name.</description>
 </element>
 <element name="R44" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="159.4485" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="159.1215" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="172.1485" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="172.1485" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C148" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="159.4485" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="159.7755" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -6838,13 +6804,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="175.641" y="29.645" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="175.5775" y="29.972" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN15" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="172.974" y="38.5445" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="172.974" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="172.974" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN15" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="172.974" y="38.5445" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="172.974" y="38.5445" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT15" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="172.974" y="2.0955" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="172.974" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="172.974" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT15" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="172.974" y="2.0955" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="172.974" y="2.0955" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD15" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="175.26" y="27.94" smashed="yes" rot="MR0"/>
 <element name="V_BCKP15" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="172.72" y="17.78" smashed="yes" rot="MR0"/>
@@ -6885,7 +6849,7 @@ design rules under a new name.</description>
 </element>
 <element name="R47" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="170.6245" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="170.2975" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="183.3245" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="183.3245" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C158" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="170.6245" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="170.9515" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -6967,13 +6931,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="8.001" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="7.9375" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN16" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="5.334" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="5.334" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="5.334" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN16" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="5.334" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="5.334" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT16" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="5.334" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="5.334" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="5.334" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT16" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="5.334" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="5.334" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD16" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="7.62" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP16" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="5.08" y="58.928" smashed="yes" rot="MR0"/>
@@ -7014,7 +6976,7 @@ design rules under a new name.</description>
 </element>
 <element name="R50" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="2.9845" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="2.6575" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="15.6845" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="15.6845" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C168" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="2.9845" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="3.3115" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -7096,13 +7058,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="19.177" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="19.1135" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN17" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="16.51" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="16.51" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="16.51" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN17" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="16.51" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="16.51" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT17" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="16.51" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="16.51" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="16.51" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT17" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="16.51" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="16.51" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD17" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="18.796" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP17" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="16.256" y="58.928" smashed="yes" rot="MR0"/>
@@ -7143,7 +7103,7 @@ design rules under a new name.</description>
 </element>
 <element name="R53" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="14.1605" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="13.8335" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="26.8605" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="26.8605" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C178" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="14.1605" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="14.4875" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -7225,13 +7185,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="30.353" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="30.2895" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN18" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="27.686" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="27.686" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="27.686" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN18" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="27.686" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="27.686" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT18" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="27.686" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="27.686" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="27.686" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT18" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="27.686" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="27.686" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD18" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="29.972" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP18" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="27.432" y="58.928" smashed="yes" rot="MR0"/>
@@ -7272,7 +7230,7 @@ design rules under a new name.</description>
 </element>
 <element name="R56" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="25.3365" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="25.0095" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="38.0365" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="38.0365" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C188" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="25.3365" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="25.6635" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -7354,13 +7312,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="41.529" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="41.4655" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN19" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="38.862" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="38.862" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="38.862" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN19" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="38.862" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="38.862" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT19" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="38.862" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="38.862" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="38.862" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT19" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="38.862" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="38.862" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD19" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="41.148" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP19" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="38.608" y="58.928" smashed="yes" rot="MR0"/>
@@ -7401,7 +7357,7 @@ design rules under a new name.</description>
 </element>
 <element name="R59" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="36.5125" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="36.1855" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="49.2125" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="49.2125" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C198" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="36.5125" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="36.8395" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -7483,13 +7439,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="52.705" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="52.6415" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN20" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="50.038" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="50.038" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="50.038" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN20" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="50.038" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="50.038" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT20" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="50.038" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="50.038" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="50.038" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT20" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="50.038" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="50.038" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD20" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="52.324" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP20" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="49.784" y="58.928" smashed="yes" rot="MR0"/>
@@ -7530,7 +7484,7 @@ design rules under a new name.</description>
 </element>
 <element name="R62" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="47.6885" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="47.3615" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="60.3885" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="60.3885" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C208" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="47.6885" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="48.0155" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -7612,13 +7566,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="63.881" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="63.8175" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN21" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="61.214" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="61.214" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="61.214" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN21" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="61.214" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="61.214" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT21" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="61.214" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="61.214" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="61.214" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT21" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="61.214" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="61.214" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD21" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="63.5" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP21" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="60.96" y="58.928" smashed="yes" rot="MR0"/>
@@ -7659,7 +7611,7 @@ design rules under a new name.</description>
 </element>
 <element name="R65" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="58.8645" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="58.5375" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="71.5645" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="71.5645" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C218" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="58.8645" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="59.1915" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -7741,13 +7693,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="75.057" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="74.9935" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN22" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="72.39" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="72.39" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="72.39" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN22" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="72.39" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="72.39" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT22" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="72.39" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="72.39" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="72.39" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT22" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="72.39" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="72.39" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD22" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="74.676" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP22" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="72.136" y="58.928" smashed="yes" rot="MR0"/>
@@ -7788,7 +7738,7 @@ design rules under a new name.</description>
 </element>
 <element name="R68" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="70.0405" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="69.7135" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="82.7405" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="82.7405" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C228" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="70.0405" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="70.3675" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -7870,13 +7820,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="86.233" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="86.1695" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN23" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="83.566" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="83.566" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="83.566" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN23" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="83.566" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="83.566" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT23" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="83.566" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="83.566" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="83.566" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT23" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="83.566" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="83.566" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD23" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="85.852" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP23" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="83.312" y="58.928" smashed="yes" rot="MR0"/>
@@ -7917,7 +7865,7 @@ design rules under a new name.</description>
 </element>
 <element name="R71" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="81.2165" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="80.8895" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="93.9165" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="93.9165" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C238" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="81.2165" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="81.5435" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -7999,13 +7947,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="97.409" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="97.3455" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN24" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="94.742" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="94.742" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="94.742" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN24" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="94.742" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="94.742" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT24" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="94.742" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="94.742" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="94.742" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT24" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="94.742" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="94.742" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD24" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="97.028" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP24" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="94.488" y="58.928" smashed="yes" rot="MR0"/>
@@ -8046,7 +7992,7 @@ design rules under a new name.</description>
 </element>
 <element name="R74" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="92.3925" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="92.0655" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="105.0925" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="105.0925" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C248" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="92.3925" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="92.7195" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -8128,13 +8074,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="108.585" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="108.5215" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN25" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="105.918" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="105.918" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="105.918" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN25" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="105.918" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="105.918" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT25" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="105.918" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="105.918" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="105.918" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT25" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="105.918" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="105.918" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD25" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="108.204" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP25" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="105.664" y="58.928" smashed="yes" rot="MR0"/>
@@ -8175,7 +8119,7 @@ design rules under a new name.</description>
 </element>
 <element name="R77" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="103.5685" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="103.2415" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="116.2685" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="116.2685" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C258" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="103.5685" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="103.8955" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -8257,13 +8201,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="119.761" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="119.6975" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN26" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="117.094" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="117.094" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="117.094" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN26" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="117.094" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="117.094" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT26" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="117.094" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="117.094" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="117.094" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT26" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="117.094" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="117.094" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD26" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="119.38" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP26" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="116.84" y="58.928" smashed="yes" rot="MR0"/>
@@ -8304,7 +8246,7 @@ design rules under a new name.</description>
 </element>
 <element name="R80" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="114.7445" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="114.4175" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="127.4445" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="127.4445" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C268" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="114.7445" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="115.0715" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -8386,13 +8328,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="130.937" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="130.8735" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN27" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="128.27" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="128.27" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="128.27" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN27" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="128.27" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="128.27" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT27" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="128.27" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="128.27" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="128.27" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT27" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="128.27" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="128.27" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD27" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="130.556" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP27" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="128.016" y="58.928" smashed="yes" rot="MR0"/>
@@ -8433,7 +8373,7 @@ design rules under a new name.</description>
 </element>
 <element name="R83" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="125.9205" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="125.5935" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="138.6205" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="138.6205" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C278" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="125.9205" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="126.2475" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -8515,13 +8455,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="142.113" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="142.0495" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN28" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="139.446" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="139.446" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="139.446" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN28" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="139.446" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="139.446" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT28" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="139.446" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="139.446" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="139.446" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT28" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="139.446" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="139.446" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD28" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="141.732" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP28" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="139.192" y="58.928" smashed="yes" rot="MR0"/>
@@ -8562,7 +8500,7 @@ design rules under a new name.</description>
 </element>
 <element name="R86" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="137.0965" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="136.7695" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="149.7965" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="149.7965" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C288" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="137.0965" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="137.4235" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -8644,13 +8582,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="153.289" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="153.2255" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN29" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="150.622" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="150.622" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="150.622" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN29" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="150.622" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="150.622" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT29" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="150.622" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="150.622" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="150.622" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT29" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="150.622" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="150.622" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD29" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="152.908" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP29" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="150.368" y="58.928" smashed="yes" rot="MR0"/>
@@ -8691,7 +8627,7 @@ design rules under a new name.</description>
 </element>
 <element name="R89" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="148.2725" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="147.9455" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="160.9725" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="160.9725" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C298" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="148.2725" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="148.5995" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -8773,13 +8709,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="164.465" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="164.4015" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN30" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="161.798" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="161.798" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="161.798" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN30" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="161.798" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="161.798" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT30" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="161.798" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="161.798" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="161.798" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT30" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="161.798" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="161.798" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD30" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="164.084" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP30" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="161.544" y="58.928" smashed="yes" rot="MR0"/>
@@ -8820,7 +8754,7 @@ design rules under a new name.</description>
 </element>
 <element name="R92" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="159.4485" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="159.1215" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="172.1485" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="172.1485" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C308" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="159.4485" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="159.7755" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -8902,13 +8836,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="175.641" y="70.793" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="175.5775" y="71.12" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN31" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="172.974" y="79.6925" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="172.974" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="172.974" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN31" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="172.974" y="79.6925" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="172.974" y="79.6925" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT31" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="172.974" y="43.2435" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="172.974" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="172.974" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT31" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="172.974" y="43.2435" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="172.974" y="43.2435" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD31" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="175.26" y="69.088" smashed="yes" rot="MR0"/>
 <element name="V_BCKP31" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="172.72" y="58.928" smashed="yes" rot="MR0"/>
@@ -8949,7 +8881,7 @@ design rules under a new name.</description>
 </element>
 <element name="R95" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="170.6245" y="74.041" smashed="yes" rot="R270">
 <attribute name="NAME" x="170.2975" y="74.041" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="183.3245" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="183.3245" y="110.871" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C318" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="170.6245" y="76.073" smashed="yes" rot="R90">
 <attribute name="NAME" x="170.9515" y="76.073" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -9031,13 +8963,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="8.001" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="7.9375" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN32" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="5.334" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="5.334" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="5.334" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN32" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="5.334" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="5.334" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT32" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="5.334" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="5.334" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="5.334" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT32" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="5.334" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="5.334" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD32" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="7.62" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP32" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="5.08" y="100.076" smashed="yes" rot="MR0"/>
@@ -9078,7 +9008,7 @@ design rules under a new name.</description>
 </element>
 <element name="R98" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="2.9845" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="2.6575" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="15.6845" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="15.6845" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C328" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="2.9845" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="3.3115" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -9160,13 +9090,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="19.177" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="19.1135" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN33" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="16.51" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="16.51" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="16.51" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN33" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="16.51" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="16.51" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT33" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="16.51" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="16.51" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="16.51" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT33" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="16.51" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="16.51" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD33" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="18.796" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP33" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="16.256" y="100.076" smashed="yes" rot="MR0"/>
@@ -9207,7 +9135,7 @@ design rules under a new name.</description>
 </element>
 <element name="R101" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="14.1605" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="13.8335" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="26.8605" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="26.8605" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C338" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="14.1605" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="14.4875" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -9289,13 +9217,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="30.353" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="30.2895" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN34" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="27.686" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="27.686" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="27.686" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN34" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="27.686" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="27.686" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT34" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="27.686" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="27.686" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="27.686" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT34" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="27.686" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="27.686" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD34" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="29.972" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP34" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="27.432" y="100.076" smashed="yes" rot="MR0"/>
@@ -9336,7 +9262,7 @@ design rules under a new name.</description>
 </element>
 <element name="R104" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="25.3365" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="25.0095" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="38.0365" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="38.0365" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C348" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="25.3365" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="25.6635" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -9418,13 +9344,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="41.529" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="41.4655" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN35" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="38.862" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="38.862" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="38.862" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN35" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="38.862" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="38.862" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT35" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="38.862" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="38.862" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="38.862" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT35" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="38.862" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="38.862" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD35" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="41.148" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP35" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="38.608" y="100.076" smashed="yes" rot="MR0"/>
@@ -9465,7 +9389,7 @@ design rules under a new name.</description>
 </element>
 <element name="R107" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="36.5125" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="36.1855" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="49.2125" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="49.2125" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C358" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="36.5125" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="36.8395" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -9547,13 +9471,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="52.705" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="52.6415" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN36" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="50.038" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="50.038" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="50.038" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN36" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="50.038" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="50.038" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT36" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="50.038" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="50.038" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="50.038" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT36" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="50.038" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="50.038" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD36" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="52.324" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP36" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="49.784" y="100.076" smashed="yes" rot="MR0"/>
@@ -9594,7 +9516,7 @@ design rules under a new name.</description>
 </element>
 <element name="R110" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="47.6885" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="47.3615" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="60.3885" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="60.3885" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C368" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="47.6885" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="48.0155" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -9676,13 +9598,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="63.881" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="63.8175" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN37" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="61.214" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="61.214" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="61.214" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN37" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="61.214" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="61.214" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT37" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="61.214" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="61.214" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="61.214" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT37" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="61.214" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="61.214" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD37" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="63.5" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP37" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="60.96" y="100.076" smashed="yes" rot="MR0"/>
@@ -9723,7 +9643,7 @@ design rules under a new name.</description>
 </element>
 <element name="R113" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="58.8645" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="58.5375" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="71.5645" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="71.5645" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C378" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="58.8645" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="59.1915" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -9805,13 +9725,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="75.057" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="74.9935" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN38" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="72.39" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="72.39" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="72.39" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN38" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="72.39" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="72.39" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT38" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="72.39" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="72.39" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="72.39" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT38" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="72.39" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="72.39" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD38" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="74.676" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP38" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="72.136" y="100.076" smashed="yes" rot="MR0"/>
@@ -9852,7 +9770,7 @@ design rules under a new name.</description>
 </element>
 <element name="R116" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="70.0405" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="69.7135" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="82.7405" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="82.7405" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C388" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="70.0405" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="70.3675" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -9934,13 +9852,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="86.233" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="86.1695" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN39" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="83.566" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="83.566" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="83.566" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN39" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="83.566" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="83.566" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT39" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="83.566" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="83.566" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="83.566" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT39" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="83.566" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="83.566" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD39" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="85.852" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP39" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="83.312" y="100.076" smashed="yes" rot="MR0"/>
@@ -9981,7 +9897,7 @@ design rules under a new name.</description>
 </element>
 <element name="R119" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="81.2165" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="80.8895" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="93.9165" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="93.9165" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C398" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="81.2165" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="81.5435" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -10063,13 +9979,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="97.409" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="97.3455" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN40" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="94.742" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="94.742" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="94.742" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN40" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="94.742" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="94.742" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT40" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="94.742" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="94.742" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="94.742" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT40" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="94.742" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="94.742" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD40" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="97.028" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP40" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="94.488" y="100.076" smashed="yes" rot="MR0"/>
@@ -10110,7 +10024,7 @@ design rules under a new name.</description>
 </element>
 <element name="R122" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="92.3925" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="92.0655" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="105.0925" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="105.0925" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C408" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="92.3925" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="92.7195" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -10192,13 +10106,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="108.585" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="108.5215" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN41" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="105.918" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="105.918" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="105.918" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN41" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="105.918" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="105.918" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT41" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="105.918" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="105.918" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="105.918" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT41" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="105.918" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="105.918" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD41" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="108.204" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP41" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="105.664" y="100.076" smashed="yes" rot="MR0"/>
@@ -10239,7 +10151,7 @@ design rules under a new name.</description>
 </element>
 <element name="R125" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="103.5685" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="103.2415" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="116.2685" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="116.2685" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C418" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="103.5685" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="103.8955" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -10321,13 +10233,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="119.761" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="119.6975" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN42" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="117.094" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="117.094" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="117.094" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN42" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="117.094" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="117.094" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT42" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="117.094" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="117.094" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="117.094" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT42" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="117.094" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="117.094" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD42" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="119.38" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP42" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="116.84" y="100.076" smashed="yes" rot="MR0"/>
@@ -10368,7 +10278,7 @@ design rules under a new name.</description>
 </element>
 <element name="R128" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="114.7445" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="114.4175" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="127.4445" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="127.4445" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C428" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="114.7445" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="115.0715" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -10450,13 +10360,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="130.937" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="130.8735" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN43" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="128.27" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="128.27" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="128.27" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN43" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="128.27" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="128.27" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT43" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="128.27" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="128.27" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="128.27" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT43" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="128.27" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="128.27" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD43" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="130.556" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP43" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="128.016" y="100.076" smashed="yes" rot="MR0"/>
@@ -10497,7 +10405,7 @@ design rules under a new name.</description>
 </element>
 <element name="R131" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="125.9205" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="125.5935" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="138.6205" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="138.6205" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C438" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="125.9205" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="126.2475" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -10579,13 +10487,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="142.113" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="142.0495" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN44" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="139.446" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="139.446" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="139.446" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN44" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="139.446" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="139.446" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT44" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="139.446" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="139.446" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="139.446" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT44" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="139.446" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="139.446" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD44" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="141.732" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP44" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="139.192" y="100.076" smashed="yes" rot="MR0"/>
@@ -10626,7 +10532,7 @@ design rules under a new name.</description>
 </element>
 <element name="R134" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="137.0965" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="136.7695" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="149.7965" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="149.7965" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C448" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="137.0965" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="137.4235" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -10708,13 +10614,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="153.289" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="153.2255" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN45" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="150.622" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="150.622" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="150.622" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN45" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="150.622" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="150.622" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT45" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="150.622" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="150.622" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="150.622" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT45" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="150.622" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="150.622" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD45" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="152.908" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP45" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="150.368" y="100.076" smashed="yes" rot="MR0"/>
@@ -10755,7 +10659,7 @@ design rules under a new name.</description>
 </element>
 <element name="R137" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="148.2725" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="147.9455" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="160.9725" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="160.9725" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C458" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="148.2725" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="148.5995" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -10837,13 +10741,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="164.465" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="164.4015" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN46" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="161.798" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="161.798" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="161.798" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN46" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="161.798" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="161.798" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT46" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="161.798" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="161.798" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="161.798" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT46" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="161.798" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="161.798" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD46" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="164.084" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP46" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="161.544" y="100.076" smashed="yes" rot="MR0"/>
@@ -10884,7 +10786,7 @@ design rules under a new name.</description>
 </element>
 <element name="R140" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="159.4485" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="159.1215" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="172.1485" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="172.1485" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C468" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="159.4485" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="159.7755" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -10966,13 +10868,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="175.641" y="111.941" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-15083" x="175.5775" y="112.268" size="1.778" layer="27" ratio="15" display="off"/>
 </element>
-<element name="IN47" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="172.974" y="120.8405" smashed="yes" rot="MR0">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="172.974" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
-<attribute name="PROD_ID" value="" x="172.974" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
+<element name="IN47" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="172.974" y="120.8405" smashed="yes" rot="MR0">
+<attribute name="PROD_ID" value="CONN-16066" x="172.974" y="120.8405" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
-<element name="OUT47" library="New_Parts_Connectors" package="FPC_16_DOUBLESIDED_BACKFLIP" value="FPC_16_0.5MM_BACKFLIP" x="172.974" y="84.3915" smashed="yes" rot="R180">
-<attribute name="ATOM_PART" value="FPC05016-42201" x="172.974" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
-<attribute name="PROD_ID" value="" x="172.974" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<element name="OUT47" library="SparkFun-Connectors" package="FPC_16_0.5MM" value="" x="172.974" y="84.3915" smashed="yes" rot="R180">
+<attribute name="PROD_ID" value="CONN-16066" x="172.974" y="84.3915" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 </element>
 <element name="VDD47" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="175.26" y="110.236" smashed="yes" rot="MR0"/>
 <element name="V_BCKP47" library="SparkFun-Connectors" package="PAD.03X.03" value="TEST-POINT3" x="172.72" y="100.076" smashed="yes" rot="MR0"/>
@@ -11013,7 +10913,7 @@ design rules under a new name.</description>
 </element>
 <element name="R143" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="170.6245" y="115.189" smashed="yes" rot="R270">
 <attribute name="NAME" x="170.2975" y="115.189" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="183.3245" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="183.3245" y="152.019" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C478" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="170.6245" y="117.221" smashed="yes" rot="R90">
 <attribute name="NAME" x="170.9515" y="117.221" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>

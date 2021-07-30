@@ -4101,7 +4101,7 @@ design rules under a new name.</description>
 </element>
 <element name="R2" library="SparkFun-Resistors" package="0402-TIGHT" value="2" x="2.9845" y="32.893" smashed="yes" rot="R270">
 <attribute name="NAME" x="2.6575" y="32.893" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-08296" x="15.6845" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="RES-15724" x="15.6845" y="69.723" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 </element>
 <element name="C9" library="SparkFun-Capacitors" package="0402-TIGHT" value="47PF-0402_TIGHT-25V-5%-X7R" x="2.9845" y="34.925" smashed="yes" rot="R90">
 <attribute name="NAME" x="3.3115" y="34.925" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>

@@ -5307,7 +5307,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="RES-08296" constant="no"/>
+<attribute name="PROD_ID" value="RES-15724" constant="no"/>
 <attribute name="VALUE" value="2" constant="no"/>
 </technology>
 </technologies>
