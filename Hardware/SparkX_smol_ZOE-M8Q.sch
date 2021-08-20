@@ -11133,7 +11133,7 @@ Prepreg thickness: 0.2mm
 </text>
 <text x="5.08" y="267.462" size="5.08" layer="94">Power Switching</text>
 <wire x1="88.9" y1="160.02" x2="0" y2="160.02" width="0.2032" layer="97" style="longdash"/>
-<text x="6.604" y="94.742" size="5.08" layer="94">EZ Connectors</text>
+<text x="6.604" y="94.742" size="5.08" layer="94">smôl Connectors</text>
 <text x="11.938" y="40.894" size="2.54" layer="97" font="vector" rot="R90">Bottom</text>
 <text x="76.962" y="48.26" size="2.54" layer="97" font="vector" rot="R270">Top</text>
 <text x="96.52" y="203.2" size="5.08" layer="94" font="vector">uBlox ZOE-M8Q-0-10</text>
