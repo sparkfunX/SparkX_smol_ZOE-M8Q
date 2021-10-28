@@ -1,13 +1,11 @@
 # SparkX smôl ZOE-M8Q
 
-[![SparkX smôl ZOE-M8Q (SPX-18358)]()](https://www.sparkfun.com/products/18358)
+[![SparkX smôl ZOE-M8Q (SPX-18623)](https://cdn.sparkfun.com/assets/parts/1/8/1/2/4/18623-smo__l_ZOE-M8Q-01.jpg)](https://www.sparkfun.com/products/18623)
 
-[*SparkX smôl ZOE-M8Q (SPX-18358)*](https://www.sparkfun.com/products/18358)
+[*SparkX smôl ZOE-M8Q (SPX-18623)*](https://www.sparkfun.com/products/18623)
 
 The u-blox ZOE-M8Q in smôl format.
 
-![Top.png](./img/Top.png)
-![Bottom.png](./img/Bottom.png)
 ![Dimensions.png](./img/Dimensions.png)
 
 ## Repository Contents
@@ -18,7 +16,7 @@ The u-blox ZOE-M8Q in smôl format.
 
 ## Product Versions
 
-- [SPX-18358](https://www.sparkfun.com/products/18358) - Original SparkX Release.
+- [SPX-18623](https://www.sparkfun.com/products/18623) - Original SparkX Release.
 
 ## License Information
 
