@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.05" altunitdist="inch" altunit="inch"/>
@@ -186,7 +186,7 @@
 <layer number="254" name="cooling" color="7" fill="1" visible="no" active="no"/>
 <layer number="255" name="routoute" color="7" fill="1" visible="no" active="no"/>
 </layers>
-<schematic xreflabel="%F%N/%S" xrefpart="/%S">
+<schematic xreflabel="%F%N/%S" xrefpart="/%S.%C%R">
 <libraries>
 <library name="SparkFun-Aesthetics">
 <description>&lt;h3&gt;SparkFun Aesthetics&lt;/h3&gt;
@@ -11114,14 +11114,14 @@ Battery Characteristics:
 <sheets>
 <sheet>
 <plain>
-<text x="351.536" y="9.906" size="2.54" layer="94">Paul Clark</text>
-<text x="422.656" y="7.366" size="2.54" layer="94">X02</text>
+<text x="351.536" y="9.906" size="2.54" layer="94" font="vector">Paul Clark</text>
+<text x="422.656" y="7.366" size="2.54" layer="94" font="vector">X02</text>
 <wire x1="88.9" y1="0" x2="88.9" y2="160.02" width="0.2032" layer="97" style="longdash"/>
 <wire x1="88.9" y1="160.02" x2="88.9" y2="279.4" width="0.2032" layer="97" style="longdash"/>
 <wire x1="431.8" y1="215.9" x2="88.9" y2="215.9" width="0.2032" layer="97" style="longdash"/>
 <wire x1="241.3" y1="215.9" x2="241.3" y2="279.4" width="0.2032" layer="97" style="longdash"/>
 <wire x1="88.9" y1="106.68" x2="0" y2="106.68" width="0.2032" layer="97" style="longdash"/>
-<text x="5.08" y="147.32" size="5.08" layer="94">Test Points</text>
+<text x="5.08" y="147.32" size="5.08" layer="94" font="vector">Test Points</text>
 <text x="249.682" y="244.348" size="1.778" layer="97" font="vector" align="top-left">RF Track Impedance: Coplanar Waveguide with Ground Calculations
 https://chemandy.com/calculators/coplanar-waveguide-with-ground-calculator.htm
 ----------------
@@ -11131,12 +11131,12 @@ Ground is on layer 2.
 Prepreg thickness: 0.2mm
 12 mil track with 4 mil gap = 49.5 Ohms
 </text>
-<text x="5.08" y="267.462" size="5.08" layer="94">Power Switching</text>
+<text x="5.08" y="267.462" size="5.08" layer="94" font="vector">Power Switching</text>
 <wire x1="88.9" y1="160.02" x2="0" y2="160.02" width="0.2032" layer="97" style="longdash"/>
-<text x="6.604" y="94.742" size="5.08" layer="94">smôl Connectors</text>
+<text x="6.604" y="94.742" size="5.08" layer="94" font="vector">smôl Connectors</text>
 <text x="11.938" y="40.894" size="2.54" layer="97" font="vector" rot="R90">Bottom</text>
 <text x="76.962" y="48.26" size="2.54" layer="97" font="vector" rot="R270">Top</text>
-<text x="96.52" y="203.2" size="5.08" layer="94" font="vector">uBlox ZOE-M8Q-0-10</text>
+<text x="96.52" y="203.2" size="5.08" layer="94" font="vector">u-blox ZOE-M8Q-0-10</text>
 <text x="96.52" y="269.24" size="5.08" layer="94" font="vector">Back-Up Voltage</text>
 <text x="248.92" y="269.24" size="5.08" layer="94" font="vector">Antenna</text>
 <text x="246.38" y="81.28" size="2.032" layer="97" font="vector">VCC Range: 1.89 - 3.6V</text>
